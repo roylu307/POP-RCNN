@@ -5,7 +5,7 @@ This is a reproduced repo of 'Multi-Scale Feature Fusion with Point Pyramid for 
 The code is mainly based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet).
 
 ## Introduction
-We provide code and training configurations of PA-RCNN on the KITTI and Waymo Open dataset.  
+We provide code and training configurations of POP-RCNN-V on the KITTI dataset.  
 
 ![Algorithm Overview](docs/overview.png)
 
