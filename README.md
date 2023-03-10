@@ -32,5 +32,5 @@ Please refer to [GETTING_STARTED.md](docs/GETTING_STARTED.md) to learn more usag
 
 
 ## Acknowledgement
-We would like to thank the authors of [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) and ['PDV'](https://github.com/TRAILab/PDV) for their open source release of their codebase.
+We would like to thank the authors of [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) and [`PDV`](https://github.com/TRAILab/PDV) for their open source release of their codebase.
 
