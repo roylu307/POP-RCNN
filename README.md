@@ -5,7 +5,7 @@ This is a reproduced repo of 'Multi-Scale Feature Fusion with Point Pyramid for 
 The code is mainly based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet).
 
 ## Introduction
-We provide code and training configurations of POP-RCNN-V with 3 levels of (6,6,6) grid points and 14 layers on the KITTI dataset.  
+We provide codes of POP-RCNN-V with 3 levels of (6,6,6) grid points and 14 layers on the KITTI dataset.  
 
 ![Algorithm Overview](docs/overview.png)
 
